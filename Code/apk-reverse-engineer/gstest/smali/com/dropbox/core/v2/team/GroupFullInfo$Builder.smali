@@ -1,0 +1,13 @@
+.class public Lcom/dropbox/core/v2/team/GroupFullInfo$Builder;
+.super Lcom/dropbox/core/v2/teamcommon/GroupSummary$Builder;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/dropbox/core/v2/team/GroupFullInfo;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x9
+    name = "Builder"
+.end annotation

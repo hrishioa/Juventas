@@ -1,0 +1,4 @@
+#Wed Nov 29 16:12:52 SGT 2017
+base.0=/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/transforms/dexMerger/debug/9
+renamed.0=classes.dex
+file.0=/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex

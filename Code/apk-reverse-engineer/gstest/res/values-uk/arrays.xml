@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="common_cloud_factory_owner">
+        <item>Ні</item>
+        <item>Dropbox</item>
+    </string-array>
+    <string-array name="common_log_t_level">
+        <item>Ні</item>
+        <item>Помилка</item>
+        <item>Журнал</item>
+        <item>Відладка</item>
+        <item>Verbose</item>
+    </string-array>
+</resources>

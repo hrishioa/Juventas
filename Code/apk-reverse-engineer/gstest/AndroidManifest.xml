@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="it.ct.glicemia_starter" platformBuildVersionCode="18" platformBuildVersionName="4.3.1-1425645">
+    <uses-permission android:name="android.permission.NFC"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-feature android:name="android.hardware.nfc" android:required="true"/>
+    <application android:debuggable="true" android:icon="@drawable/ic_application04" android:label="@string/app_name" android:name="it.ct.glicemia_starter.android.GlicemiaStarter" android:theme="@style/Theme_Stan">
+        <activity android:label="@string/actionbar_text" android:name="it.ct.glicemia_starter.android.ActivityInitializer" android:screenOrientation="portrait" android:windowSoftInputMode="stateAlwaysHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <meta-data android:name="com.google.android.wearable.beta.app" android:resource="@xml/android_wear_micro_apk"/>
+    </application>
+</manifest>

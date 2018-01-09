@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '26.0.2'
+
+    defaultConfig {
+        applicationId "com.socialdiabetes.freestylelibre"
+        minSdkVersion 21
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    dexOptions {
+        jumboMode true
+        javaMaxHeapSize "4g"
+
+    }
+}
+
+dependencies {
+//    compile 'com.android.support:support-v4:19.1.0'
+    compile 'com.android.support:support-compat:26.0.0'
+    compile 'com.github.PhilJay:MPAndroidChart:v3.0.2'
+    compile 'org.apache.commons:commons-lang3:3.6'
+    implementation files('/Users/hrishioa/Downloads/opencsv-4.1.jar')
+}

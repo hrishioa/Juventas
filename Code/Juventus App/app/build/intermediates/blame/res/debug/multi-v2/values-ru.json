@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml",
+            "map": [
+                {
+                    "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

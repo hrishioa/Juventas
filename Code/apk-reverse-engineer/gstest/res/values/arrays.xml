@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="common_cloud_factory_owner">
+        <item>None</item>
+        <item>Dropbox</item>
+    </string-array>
+    <string-array name="common_log_t_level">
+        <item>None</item>
+        <item>Error</item>
+        <item>Log</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+    </string-array>
+    <string-array name="common_cloud_factory_owner_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="common_log_t_level_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>

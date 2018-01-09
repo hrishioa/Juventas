@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hrishioa/Dropbox/Projects/Juventas/Code/FreeStyleNFC/FreeStyleLibre-NFC-Reader-master/app/FreeStyleLibre/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cfd8fd70a3508552c6c5bc2cbfe2f558d52c0202">
+        <dex dex="/Users/hrishioa/Dropbox/Projects/Juventas/Code/FreeStyleNFC/FreeStyleLibre-NFC-Reader-master/app/FreeStyleLibre/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3b3070041e9d64ca2655fda8beec24b3cfa54572/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishioa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/hrishioa/Dropbox/Projects/Juventas/Code/FreeStyleNFC/FreeStyleLibre-NFC-Reader-master/app/FreeStyleLibre/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_2c1d93c714ed7ff62e297530915dd545496ecda7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hrishioa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/hrishioa/Dropbox/Projects/Juventas/Code/FreeStyleNFC/FreeStyleLibre-NFC-Reader-master/app/FreeStyleLibre/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_2c1d93c714ed7ff62e297530915dd545496ecda7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hrishioa/Dropbox/Projects/Juventas/Code/FreeStyleNFC/FreeStyleLibre-NFC-Reader-master/app/FreeStyleLibre/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/hrishioa/Dropbox/Projects/Juventas/Code/FreeStyleNFC/FreeStyleLibre-NFC-Reader-master/app/FreeStyleLibre/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bdb74a64caaeb0cfb1c994be02fe9f94c9615443/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Stan.Activity.LinearLayout.TextView" parent="">
+        <item name="android:textSize">@dimen/initialize_text_size</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">#ffffffff</item>
+        <item name="android:paddingLeft">0.0sp</item>
+        <item name="android:paddingTop">0.0sp</item>
+        <item name="android:paddingRight">0.0sp</item>
+        <item name="android:paddingBottom">0.0sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0.0sp</item>
+        <item name="android:layout_marginLeft">0.0sp</item>
+        <item name="android:layout_marginTop">0.0sp</item>
+        <item name="android:layout_marginRight">0.0sp</item>
+        <item name="android:layout_marginBottom">0.0sp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="Stan.Popup.LinearLayout.Button" parent="">
+        <item name="android:textSize">@dimen/warning_text_size_button</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">#ff00b5c0</item>
+        <item name="android:paddingLeft">10.0sp</item>
+        <item name="android:paddingTop">0.0sp</item>
+        <item name="android:paddingRight">10.0sp</item>
+        <item name="android:paddingBottom">0.0sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">0.0sp</item>
+        <item name="android:layout_marginTop">20.0sp</item>
+        <item name="android:layout_marginRight">0.0sp</item>
+        <item name="android:layout_marginBottom">20.0sp</item>
+        <item name="android:fontFamily">sans-serif-bold</item>
+    </style>
+    <style name="Stan.Popup.LinearLayout.TextView" parent="">
+        <item name="android:textSize">@dimen/warning_text_size</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">#ffffffff</item>
+        <item name="android:paddingLeft">15.0sp</item>
+        <item name="android:paddingTop">0.0sp</item>
+        <item name="android:paddingRight">15.0sp</item>
+        <item name="android:paddingBottom">0.0sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">0.0sp</item>
+        <item name="android:layout_marginTop">0.0sp</item>
+        <item name="android:layout_marginRight">0.0sp</item>
+        <item name="android:layout_marginBottom">0.0sp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="Stan.Popup.LinearLayout.TextViewWarningTitle" parent="@style/Stan.Popup.LinearLayout.TextView">
+        <item name="android:textColor">#ffff0000</item>
+        <item name="android:paddingTop">30.0sp</item>
+        <item name="android:fontFamily">sans-serif-bold</item>
+    </style>
+</resources>

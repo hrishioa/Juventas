@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/main">
+        <item android:icon="@android:drawable/ic_menu_search" android:id="@id/id_filter" android:orderInCategory="1" android:title="@string/common_activity_query_string_hint_filter" android:showAsAction="collapseActionView|ifRoom" android:actionViewClass="android.widget.SearchView" />
+    </group>
+</menu>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/activity_initializer" style="?attr/Style.Activity.LinearLayout"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/text_view_request" android:text="@string/initialize_hint" android:layout_weight="33.0" style="?attr/Style.Activity.LinearLayout.TextViewRequest" />
+    <ImageView android:layout_weight="33.0" android:contentDescription="@string/initialize_hint" style="?attr/Style.Activity.LinearLayout.ImageViewInitializer" />
+    <TextView android:id="@id/text_view_message" android:text="@string/initializer_message" android:layout_weight="33.0" style="?attr/Style.Activity.LinearLayout.TextViewMessage" />
+</LinearLayout>

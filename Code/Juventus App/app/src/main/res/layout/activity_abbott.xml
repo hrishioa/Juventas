@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context="${relativePackage}.${activityClass}" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:weightSum="3">
+
+        <TextView
+            android:id="@+id/result"
+            android:layout_width="fill_parent"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/exo_2_medium"
+            android:gravity="center"
+            android:shadowColor="#94000000"
+            android:shadowDy="2"
+            android:shadowRadius="10"
+            android:text="25.4 mmol/L\n23.3°C"
+            android:textAlignment="center"
+            android:textSize="45sp" />
+        <com.github.mikephil.charting.charts.LineChart
+            android:id="@+id/chart_old"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+        <com.github.mikephil.charting.charts.CombinedChart
+            android:id="@+id/chart_new"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+</RelativeLayout>

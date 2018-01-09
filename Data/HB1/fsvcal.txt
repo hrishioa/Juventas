@@ -1,0 +1,84 @@
+Min: 23.8, Max: 24.0, avg: 23.9 C
+0: Entry, x: 15.0 y: 15.557037,Entry, x: 15.0 y: 9892.0
+11-25 02:14:07.021 20033-21693/com.socialdiabetes.freestylelibre D/Juventus: 1: Entry, x: 14.0 y: 17.410667,Entry, x: 14.0 y: 9876.0
+11-25 02:14:07.021 20033-21693/com.socialdiabetes.freestylelibre D/Juventus: 2: Entry, x: 13.0 y: 19.536295,Entry, x: 13.0 y: 9856.0
+11-25 02:14:07.021 20033-21693/com.socialdiabetes.freestylelibre D/Juventus: 3: Entry, x: 12.0 y: 20.70489,Entry, x: 12.0 y: 26216.0
+11-25 02:14:07.021 20033-21693/com.socialdiabetes.freestylelibre D/Juventus: 4: Entry, x: 11.0 y: 20.624296,Entry, x: 11.0 y: 26204.0
+11-25 02:14:07.021 20033-21693/com.socialdiabetes.freestylelibre D/Juventus: 5: Entry, x: 10.0 y: 11.18489,Entry, x: 10.0 y: 26262.0
+11-25 02:14:07.021 20033-21693/com.socialdiabetes.freestylelibre D/Juventus: 6: Entry, x: 9.0 y: 6.228445,Entry, x: 9.0 y: 10058.0
+11-25 02:14:07.021 20033-21693/com.socialdiabetes.freestylelibre D/Juventus: 7: Entry, x: 8.0 y: 3.6394076,Entry, x: 8.0 y: 9742.0
+11-25 02:14:07.021 20033-21693/com.socialdiabetes.freestylelibre D/Juventus: 8: Entry, x: 7.0 y: -2.6165926,Entry, x: 7.0 y: 8922.0
+11-25 02:14:07.021 20033-21693/com.socialdiabetes.freestylelibre D/Juventus: 9: Entry, x: 6.0 y: -2.636741,Entry, x: 6.0 y: 8950.0
+11-25 02:14:07.021 20033-21693/com.socialdiabetes.freestylelibre D/Juventus: 10: Entry, x: 5.0 y: -2.636741,Entry, x: 5.0 y: 9046.0
+11-25 02:14:07.021 20033-21693/com.socialdiabetes.freestylelibre D/Juventus: 11: Entry, x: 4.0 y: -2.646815,Entry, x: 4.0 y: 9026.0
+11-25 02:14:07.021 20033-21693/com.socialdiabetes.freestylelibre D/Juventus: 12: Entry, x: 3.0 y: -2.6065187,Entry, x: 3.0 y: 8986.0
+11-25 02:14:07.021 20033-21693/com.socialdiabetes.freestylelibre D/Juventus: 13: Entry, x: 2.0 y: -2.6065187,Entry, x: 2.0 y: 58050.0
+11-25 02:14:07.021 20033-21693/com.socialdiabetes.freestylelibre D/Juventus: 14: Entry, x: 1.0 y: -2.6065187,Entry, x: 1.0 y: 8798.0
+11-25 02:14:07.021 20033-21693/com.socialdiabetes.freestylelibre D/Juventus: 15: Entry, x: 0.0 y: -2.6266668,Entry, x: 0.0 y: 8946.0
+
+
+9876 or 26216 - 23.8
+
+26.4 27.1 26.9
+11-25 02:26:17.475 20033-26469/com.socialdiabetes.freestylelibre D/Juventus: 0: Entry, x: 15.0 y: -0.76296306,Entry, x: 15.0 y: 57588.0
+11-25 02:26:17.475 20033-26469/com.socialdiabetes.freestylelibre D/Juventus: 1: Entry, x: 14.0 y: 0.2242964,Entry, x: 14.0 y: 57372.0
+11-25 02:26:17.475 20033-26469/com.socialdiabetes.freestylelibre D/Juventus: 2: Entry, x: 13.0 y: 1.8965929,Entry, x: 13.0 y: 57364.0
+11-25 02:26:17.475 20033-26469/com.socialdiabetes.freestylelibre D/Juventus: 3: Entry, x: 12.0 y: 4.455408,Entry, x: 12.0 y: 57360.0
+11-25 02:26:17.476 20033-26469/com.socialdiabetes.freestylelibre D/Juventus: 4: Entry, x: 11.0 y: 7.961186,Entry, x: 11.0 y: 57348.0
+11-25 02:26:17.476 20033-26469/com.socialdiabetes.freestylelibre D/Juventus: 5: Entry, x: 10.0 y: 11.718815,Entry, x: 10.0 y: 57340.0
+11-25 02:26:17.476 20033-26469/com.socialdiabetes.freestylelibre D/Juventus: 6: Entry, x: 9.0 y: 15.053333,Entry, x: 9.0 y: 57416.0
+11-25 02:26:17.476 20033-26469/com.socialdiabetes.freestylelibre D/Juventus: 7: Entry, x: 8.0 y: 20.45304,Entry, x: 8.0 y: 57374.0
+11-25 02:26:17.476 20033-26469/com.socialdiabetes.freestylelibre D/Juventus: 8: Entry, x: 7.0 y: 8.14252,Entry, x: 7.0 y: 57386.0
+11-25 02:26:17.476 20033-26469/com.socialdiabetes.freestylelibre D/Juventus: 9: Entry, x: 6.0 y: -2.2640002,Entry, x: 6.0 y: 9414.0
+11-25 02:26:17.476 20033-26469/com.socialdiabetes.freestylelibre D/Juventus: 10: Entry, x: 5.0 y: 2.9442964,Entry, x: 5.0 y: 9614.0
+11-25 02:26:17.476 20033-26469/com.socialdiabetes.freestylelibre D/Juventus: 11: Entry, x: 4.0 y: 8.83763,Entry, x: 4.0 y: 9734.0
+11-25 02:26:17.476 20033-26469/com.socialdiabetes.freestylelibre D/Juventus: 12: Entry, x: 3.0 y: 15.557037,Entry, x: 3.0 y: 9892.0
+11-25 02:26:17.476 20033-26469/com.socialdiabetes.freestylelibre D/Juventus: 13: Entry, x: 2.0 y: 17.410667,Entry, x: 2.0 y: 9876.0
+11-25 02:26:17.476 20033-26469/com.socialdiabetes.freestylelibre D/Juventus: 14: Entry, x: 1.0 y: 19.536295,Entry, x: 1.0 y: 9856.0
+11-25 02:26:17.477 20033-26469/com.socialdiabetes.freestylelibre D/Juventus: 15: Entry, x: 0.0 y: 20.70489,Entry, x: 0.0 y: 26216.0
+
+57588 - 26.4
+
+2 27 11
+
+11-25 03:03:00.465 20033-29552/com.socialdiabetes.freestylelibre D/Juventus: 0: Entry, x: 15.0 y: -2.505778,Entry, x: 15.0 y: 65534.0
+11-25 03:03:00.465 20033-29552/com.socialdiabetes.freestylelibre D/Juventus: 1: Entry, x: 14.0 y: -2.636741,Entry, x: 14.0 y: 65534.0
+11-25 03:03:00.465 20033-29552/com.socialdiabetes.freestylelibre D/Juventus: 2: Entry, x: 13.0 y: -2.5863705,Entry, x: 13.0 y: 65534.0
+11-25 03:03:00.465 20033-29552/com.socialdiabetes.freestylelibre D/Juventus: 3: Entry, x: 12.0 y: -2.6871114,Entry, x: 12.0 y: 49150.0
+11-25 03:03:00.465 20033-29552/com.socialdiabetes.freestylelibre D/Juventus: 4: Entry, x: 11.0 y: -2.505778,Entry, x: 11.0 y: 49150.0
+11-25 03:03:00.465 20033-29552/com.socialdiabetes.freestylelibre D/Juventus: 5: Entry, x: 10.0 y: -2.636741,Entry, x: 10.0 y: 49150.0
+11-25 03:03:00.465 20033-29552/com.socialdiabetes.freestylelibre D/Juventus: 6: Entry, x: 9.0 y: -2.6165926,Entry, x: 9.0 y: 49150.0
+11-25 03:03:00.465 20033-29552/com.socialdiabetes.freestylelibre D/Juventus: 7: Entry, x: 8.0 y: -2.6266668,Entry, x: 8.0 y: 32766.0
+11-25 03:03:00.465 20033-29552/com.socialdiabetes.freestylelibre D/Juventus: 8: Entry, x: 7.0 y: -2.5964446,Entry, x: 7.0 y: 16382.0
+11-25 03:03:00.465 20033-29552/com.socialdiabetes.freestylelibre D/Juventus: 9: Entry, x: 6.0 y: -2.5964446,Entry, x: 6.0 y: 49150.0
+11-25 03:03:00.465 20033-29552/com.socialdiabetes.freestylelibre D/Juventus: 10: Entry, x: 5.0 y: -2.5762966,Entry, x: 5.0 y: 32766.0
+11-25 03:03:00.465 20033-29552/com.socialdiabetes.freestylelibre D/Juventus: 11: Entry, x: 4.0 y: -2.5662222,Entry, x: 4.0 y: 65534.0
+11-25 03:03:00.465 20033-29552/com.socialdiabetes.freestylelibre D/Juventus: 12: Entry, x: 3.0 y: -2.5360003,Entry, x: 3.0 y: 49150.0
+11-25 03:03:00.466 20033-29552/com.socialdiabetes.freestylelibre D/Juventus: 13: Entry, x: 2.0 y: -2.5561483,Entry, x: 2.0 y: 32766.0
+11-25 03:03:00.466 20033-29552/com.socialdiabetes.freestylelibre D/Juventus: 14: Entry, x: 1.0 y: -2.5561483,Entry, x: 1.0 y: 32766.0
+11-25 03:03:00.466 20033-29552/com.socialdiabetes.freestylelibre D/Juventus: 15: Entry, x: 0.0 y: -2.5460744,Entry, x: 0.0 y: 32766.0
+
+65534 - 2
+49150 - on the way
+
+
+
+before: 17.7
+
+0: Entry, x: 15.0 y: -2.5964446,Entry, x: 15.0 y: 25690.0
+1: Entry, x: 14.0 y: -2.5964446,Entry, x: 14.0 y: 25686.0
+2: Entry, x: 13.0 y: -2.5964446,Entry, x: 13.0 y: 25686.0
+3: Entry, x: 12.0 y: -2.5863705,Entry, x: 12.0 y: 25690.0
+4: Entry, x: 11.0 y: -2.5964446,Entry, x: 11.0 y: 25690.0
+5: Entry, x: 10.0 y: -2.5863705,Entry, x: 10.0 y: 25678.0
+6: Entry, x: 9.0 y: -2.5964446,Entry, x: 9.0 y: 25674.0
+7: Entry, x: 8.0 y: -2.5964446,Entry, x: 8.0 y: 25666.0
+8: Entry, x: 7.0 y: -2.5863705,Entry, x: 7.0 y: 25682.0
+9: Entry, x: 6.0 y: -2.5964446,Entry, x: 6.0 y: 25666.0
+10: Entry, x: 5.0 y: -2.5863705,Entry, x: 5.0 y: 25654.0
+11: Entry, x: 4.0 y: -2.5863705,Entry, x: 4.0 y: 25654.0
+12: Entry, x: 3.0 y: -2.5964446,Entry, x: 3.0 y: 25658.0
+13: Entry, x: 2.0 y: -2.5863705,Entry, x: 2.0 y: 25646.0
+14: Entry, x: 1.0 y: -2.5863705,Entry, x: 1.0 y: 25626.0
+15: Entry, x: 0.0 y: -2.6065187,Entry, x: 0.0 y: 25626.0
+

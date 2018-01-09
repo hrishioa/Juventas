@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout style="?attr/Style.Popup"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_centerInParent="true" style="?attr/Style.Popup.LinearLayout">
+        <TextView android:text="@string/warning_header" style="?attr/Style.Popup.LinearLayout.TextViewHeader" />
+        <TextView android:text="@string/warning_warning_title" style="?attr/Style.Popup.LinearLayout.TextViewWarningTitle" />
+        <TextView android:text="@string/warning_warning" style="?attr/Style.Popup.LinearLayout.TextViewWarning" />
+        <Button android:id="@id/id_start_initializer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/warning_initialize" style="?attr/Style.Popup.LinearLayout.ButtonInitialize" />
+        <TextView android:id="@id/text_view_warning_footer" android:text="@string/warning_footer" style="?attr/Style.Popup.LinearLayout.TextViewFooter" />
+    </LinearLayout>
+</RelativeLayout>

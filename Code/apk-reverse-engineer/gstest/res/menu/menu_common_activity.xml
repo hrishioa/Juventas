@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/main">
+        <item android:icon="@android:drawable/ic_menu_search" android:id="@id/id_filter" android:orderInCategory="1" android:title="@string/common_activity_query_string_hint_filter" android:showAsAction="collapseActionView|ifRoom" android:actionViewClass="android.widget.SearchView" />
+        <item android:icon="@android:drawable/ic_menu_add" android:id="@id/id_insert" android:orderInCategory="2" android:title="@string/common_activity_query_string_action_insert" android:showAsAction="ifRoom" />
+        <item android:icon="@android:drawable/ic_menu_preferences" android:id="@id/id_preferences" android:orderInCategory="3" android:title="@string/common_activity_query_string_action_preferences" />
+        <item android:icon="@android:drawable/ic_menu_close_clear_cancel" android:id="@id/id_exit" android:orderInCategory="4" android:title="@string/common_activity_query_string_action_exit" />
+    </group>
+</menu>

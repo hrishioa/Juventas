@@ -1,0 +1,124 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:support-compat:26.0.0] /Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-compat:26.0.0] /Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-compat:26.0.0] /Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/AndroidManifest.xml:23:9-55
+	android:targetSdkVersion
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:13:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:14:2-78
+	android:name
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:14:19-75
+uses-permission#android.permission.NFC
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:15:5-62
+	android:name
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:15:22-59
+uses-feature#android.hardware.nfc
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:16:5-81
+	android:required
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:16:55-78
+	android:name
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:16:19-54
+application
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:18:5-41:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:20:9-45
+	android:allowBackup
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:22:9-40
+activity#com.socialdiabetes.freestylelibre.Abbott
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:23:9-37:20
+	android:label
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:24:13-35
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.TECH_DISCOVERED
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:27:7-30:23
+action#android.nfc.action.TECH_DISCOVERED
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:28:11-71
+	android:name
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:28:19-68
+category#android.intent.category.DEFAULT
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:29:17-75
+	android:name
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:29:27-73
+meta-data#android.nfc.action.TECH_DISCOVERED
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:31:7-110
+	android:resource
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:31:68-107
+	android:name
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:31:18-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:35:27-74
+meta-data#preloaded_fonts
+ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:38:9-40:57
+	android:resource
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:40:13-54
+	android:name
+		ADDED from /Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/AndroidManifest.xml:39:13-43
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-compat:26.0.0] /Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-compat:26.0.0] /Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-compat:26.0.0] /Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/AndroidManifest.xml:27:13-51

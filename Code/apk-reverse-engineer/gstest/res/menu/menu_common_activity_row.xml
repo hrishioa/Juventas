@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/main">
+        <item android:id="@id/id_update" android:orderInCategory="1" android:title="@string/action_update" />
+        <item android:id="@id/id_delete" android:orderInCategory="2" android:title="@string/action_delete" />
+        <item android:id="@id/id_null" android:orderInCategory="3" android:title="@string/action_cancel" />
+    </group>
+</menu>

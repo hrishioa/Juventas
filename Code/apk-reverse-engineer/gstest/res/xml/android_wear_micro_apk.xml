@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wearableApp package="it.ct.glicemia_starter">
+    <versionCode>200409111</versionCode>
+    <versionName>4.9.11</versionName>
+    <rawPathResId>android_wear_micro_apk</rawPathResId>
+</wearableApp>

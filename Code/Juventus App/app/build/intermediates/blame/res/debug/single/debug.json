@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/font_exo_2_medium.xml.flat",
+        "source": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/res/font/exo_2_medium.xml"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/raw_notification.mp3.flat",
+        "source": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/res/raw/notification.mp3"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/xml_nfc_tech_filter.xml.flat",
+        "source": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/res/xml/nfc_tech_filter.xml"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/layout_activity_abbott.xml.flat",
+        "source": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/res/layout/activity_abbott.xml"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/font_baumans.ttf.flat",
+        "source": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/src/main/res/font/baumans.ttf"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/hrishioa/Dropbox/Projects/Juventas/Code/Juventus App/FreeStyleLibre/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/hrishioa/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/a37250e54a5e5ef24adf183054d6cdad/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    }
+]
