@@ -1,0 +1,37 @@
+\chapter{Appendix}
+
+All source code and data are located at the primary repo for this paper - \url{https://github.com/hrishioa/Juventas}
+
+\section{Source Code Organization}
+
+Primary organization of the source code is split into three folders: Code, Data and Paper. The \textbf{Code} folder contains all of the applications and utilities written and used for the paper, the \textbf{Data} folder contains raw data read from multiple versions of the Libre app, along with Liapp and Glimp. The \textbf{Paper} folder, understandably contains the tex files used to generate this paper as a form of paperception.
+
+Below are the utilities and scripts included in the \textbf{Code} folder:
+
+\begin{itemize}
+
+\item \textbf{BGMLogger} is a handy script for manually logging blood glucose and tagging information, and produces an output to csv. Usage: \texttt{python BGMLogger.py <filename - default is BGMlog.csv>}
+
+\item \textbf{apk-reverse-engineer} contains all of the files used in the reverse engineering process of the Glimp and Liapp applications. Here the binaries of \textbf{dex2jar} and \textbf{apktool} are included for repeatability, as well as extracted source code and recompiled binaries. Tread at your own risk.
+
+\item \textbf{glucometerutils} is a fork of \cite{petteno_glucometerutils:_2018}, with some modifications added to make logging to csv easier for proper debugging. Some fixes were made to improve performance with the Freestyle Libre, and some locks were removed to improve debugging verbosity\footnote{Please check \url{https://github.com/flameeyes/glucometerutils} for dependencies and usage}. 
+
+\item \textbf{Juventus App} is the Android developed as part of the paper. It is functioning as of the time of writing, and the repository contains the gradle files needed to import and compile in Android Studio, as well as a pre-built apk that will work on Android Versions 17 and up.
+
+\item \textbf{Misc Utilities} contains processing scripts, and may therefore be more cluttered than the rest. The contents are - 
+
+\begin{enumerate}
+
+\item \textbf{glimp\_process.py} can be used to fix unicode errors and patch missing data from the output of \texttt{glucometerutils}. Usage: \texttt{python glimp\_process.py <input\_file> <output\_file>}
+
+\item \texttt{processNFCcsv.py} parses the csv hex dumps from the Android app (disabled by default for performance) to compute glucose and temperature information for testing. The color added console output seen in Figure~\ref{fig:diff} is also produced by this script. The input filename is stored in the script and will need to be modified.
+
+\item \texttt{processrawNFC.py} is very helpful is extracting information directly from the sensor, and therefore is more versatile when used on different sensor. The input is a xml hex dump from NXP TagInfo, which is freely available for Android smartphones. Bypassing any other application dedicated to blood sugar also allows for independent algorithm confirmation. Same as before, the input filename is stored in the script and will need to be modified.
+
+\item \texttt{Graphing.ipynb} is the Jupiter notebook containing raw glucose and temperature plots as well as some sanitization functions for datasets.
+
+\end{enumerate}
+
+\item \textbf{Data} contains all of the raw data used in this experiment. Most common organisation is as a csv, with self-explanatory headings.
+
+\end{itemize}
