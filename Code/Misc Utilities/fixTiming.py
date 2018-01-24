@@ -17,7 +17,7 @@ with open(infile,'r') as csvfile:
     for row in csvreader:
         csvrows.append([(row[i] if i == len(row)-1 else float(row[i])) for i in xrange(0,len(row))])
 
-arranged = sorted(csvrows,key=itemgetter(5,4,9,10),reverse=True)
+arranged = sorted(csvrows,key=itemgetter(5,4,9,10),reverse=False)
 
 cursensortag = ""
 curreadtime = None
