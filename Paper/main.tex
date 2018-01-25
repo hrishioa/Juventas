@@ -63,6 +63,9 @@
 % **************************************************
 \usepackage[utf8]{inputenc}		% defines file's character encoding
 \usepackage[english]{babel} % babel system, adjust the language of the content
+
+\usepackage{float}
+
 \usepackage[					% clean thesis style
 	figuresep=colon,%
 	sansserif=false,%
@@ -123,7 +126,7 @@
 \input{content/titlepages}		% INCLUDE: all titlepages
 
 \pagestyle{plain}				% display just page numbers
-% \input{content/abstract}		% INCLUDE: the abstracts (english and german)
+\input{content/abstract}		% INCLUDE: the abstracts (english and german)
 \newpage
 % \cleardoublepage
 %
